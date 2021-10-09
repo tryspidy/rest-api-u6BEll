@@ -1,0 +1,18 @@
+1) REQUEST
+2) RESPONSE
+When we send request, we need to know the API
+methods/endpoints that are available:
+		- read documentation about API methods.
+		- Swagger tool, that has API methods and descriptions
+simple endpoint:
+		…school.com/api/students
+Types of Requests:
+	GET -> Read data
+	POST -> Create/insert data
+	PUT -> Update data
+	DELETE-> Delete data
+I send GET, POST, PUT, DELETE type of API requests to
+API endpoint/method and get response.
+ORDS (oracle data service) API -> HR Database
+ORDS API has methods that we can send request to, and it sends
+response with Data from HR database.
